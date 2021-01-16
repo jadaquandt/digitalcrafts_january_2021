@@ -1,4 +1,4 @@
-# DigitalCrafts - $FLEX_CLASS_ID
+# DigitalCrafts - FS-FLX-03
 
 Welcome to DigitalCrafts!
 
