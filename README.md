@@ -6,11 +6,12 @@ This is your field guide to your Flex cohort, and should provide you with inform
 
 ## Important Links
 
-- $ZOOM_LINK
-- $ZOOM_RECORDINGS
-- $OFFICE_HOURS
-- $SLACK_LINK
-- $ELECTIVE_RECORDINGS
+- [Zoom Link](https://zoom.us/j/811290251)
+- [Zoom Recordings]()
+- [Office Hours](https://docs.google.com/spreadsheets/d/1wVQt15pC-civo-gUJQ-u1t2k80LYvamUHDUxeAXTifI/edit#gid=520221306)
+- [Learning Portal](https://learn.digitalcrafts.com/flex/)
+- [Slack](https://digitalcrafts.slack.com/archives/C01HC6PF68Z)
+- [Elective Recordings](https://bit.ly/2VmEiJ6)
 
 ## Lectures
 
